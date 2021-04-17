@@ -1,0 +1,2 @@
+Run:
+$ python src/graph2vec.py --input-path dataset_small/ --output-path embeddings_graph2vec_small.csv
